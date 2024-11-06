@@ -1,15 +1,5 @@
 //****************************************************************************************************
-//     File:               job.cpp
-//     
-//     Student:            Natasha Garoutte
-//
-//     Assignment:         Program #2 
-//
-//     Course Name:        Programming I
-//
-//     Course Number:      COSC 1550 - Z2
-//
-//     Due:                September 6, 2024
+//     Job
 //
 //     This program will take a name input and output directions. 
 //
