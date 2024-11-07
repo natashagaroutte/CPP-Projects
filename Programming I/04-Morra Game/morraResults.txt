@@ -1,0 +1,19 @@
+Number of instances: 3
+
+Instance 1:
+  Player 1 fingers: 3, Guess: 7
+  Player 2 fingers: 2, Guess: 6
+  Actual Sum: 5
+  Result: No One Wins :(
+
+Instance 2:
+  Player 1 fingers: 1, Guess: 4
+  Player 2 fingers: 4, Guess: 5
+  Actual Sum: 5
+  Result: Player 2 Wins!
+
+Instance 3:
+  Player 1 fingers: 2, Guess: 5
+  Player 2 fingers: 3, Guess: 4
+  Actual Sum: 5
+  Result: Tie!
