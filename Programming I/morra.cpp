@@ -1,15 +1,5 @@
 //****************************************************************************************************
-//     File:               mora.cpp
-//     
-//     Student:            Natasha Garoutte
-//
-//     Assignment:         Program #4
-//
-//     Course Name:        Programming I
-//
-//     Course Number:      COSC 1550 - Z2
-//
-//     Due:                October 25, 2024
+//     Mora Game
 //
 //     This program will run a series of instances of a Morra game.
 //
@@ -21,6 +11,8 @@
 #include <ctime>
 
 using namespace std;
+
+//****************************************************************************************************
 
 int main() {
     srand(time(0));
