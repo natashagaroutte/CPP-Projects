@@ -1,3 +1,15 @@
+//****************************************************************************************************
+//
+// Activity: Max of 3
+//
+// Objective: This activity is to teach you how to design a program with functions and use pass-by
+//            -reference functions.
+//
+// Prompt: Write a complete program to read three inputs from user and output the maximum of three 
+//         numbers.
+//
+//****************************************************************************************************
+
 #include <iostream>
 using namespace std;
 
