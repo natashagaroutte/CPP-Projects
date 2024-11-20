@@ -28,16 +28,19 @@ int main ()
       num3,
       max;
 
-readNumbers(num1, num2, num3);
-max = findMax(num1, num2, num3);
-diplayMax(max);
+  readNumbers(num1, num2, num3);
+  max = findMax(num1, num2, num3);
+  displayMax(max);
+
+  return 0;
+}
 
 //****************************************************************************************************
 
-void readNumbers(int number1, int number2, int number3)
+void readNumbers(int num1, int num2, int num3)
 {
   cout << "Enter three numbers: ";
-  cin >> number1 >> number2 >> number3;
+  cin >> num1 >> num2 >> num3;
 }
 
 //****************************************************************************************************
@@ -61,5 +64,3 @@ void displayMax(int max)
 }
 
 //****************************************************************************************************
-
-    
